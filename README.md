@@ -27,11 +27,6 @@ This encryption method needs a shared secret key for the Henon map and Arnold ca
 - Input **sender's public key**
 - Decrypt
 
-## Graphical User Interface
-Login UI                   |  Encryption UI
-:-------------------------:|:-------------------------:
-![Login](https://github.com/frenzelts/Henon-Arnold-Image-Encryption/blob/master/UI-Login.png)  |  ![Encryption](https://github.com/frenzelts/Henon-Arnold-Image-Encryption/blob/master/UI-Encryption.png)
-
 ## Key to Initial Values Algorithm
 <p align="center">
   <img src="https://github.com/frenzelts/Henon-Arnold-Image-Encryption/blob/master/Flow-Key-to-Initial-Values.png">
@@ -43,13 +38,3 @@ Login UI                   |  Encryption UI
 </p>
 
 
-# License
-MIT License
-
-Copyright (c) 2020 Frenzel Timothy Surya
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
